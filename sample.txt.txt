@@ -1,3 +1,5 @@
 first statement
 second statement
 third statement
+red
+blue
